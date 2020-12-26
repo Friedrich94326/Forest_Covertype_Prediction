@@ -18,3 +18,21 @@ Region 2 Resource Information System data. The covertypes are the following:
 - Use my knowledge of hyperparameter tuning to improve the performance of my model(s).
 - Test and analyse performance.
 - Create clean and modular code.
+
+## Training and Evaluation Reviews:
+
+### Model Selection: neural network with 2-hidden layers
+
+#### Model Architecture:
+
+
+#### Accuracy & Loss:
+![](https://github.com/Friedrich94326/Forest_Covertype_Prediction/blob/main/Trained_Models/covertype_3_layered_classifier/acc_loss_plot.png)
+#### Confusion Matrix:
+![](https://github.com/Friedrich94326/Forest_Covertype_Prediction/blob/main/Trained_Models/covertype_3_layered_classifier/confusion_matrix.png)
+
+#### Overall Scoring:
+![](https://github.com/Friedrich94326/Forest_Covertype_Prediction/blob/main/Trained_Models/covertype_3_layered_classifier/Classification_Report.png)
+
+
+
