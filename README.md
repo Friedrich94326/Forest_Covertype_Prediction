@@ -19,6 +19,10 @@ Region 2 Resource Information System data. The covertypes are the following:
 - Test and analyse performance.
 - Create clean and modular code.
 
+
+## Distribution of Various Covertypes
+![](https://github.com/Friedrich94326/Forest_Covertype_Prediction/blob/main/distribution%20of%20cover%20types.png)
+
 ## Training and Evaluation Reviews:
 
 ### Model Selection: neural network with 2-hidden layers
