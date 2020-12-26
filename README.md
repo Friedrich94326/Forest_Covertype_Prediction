@@ -24,7 +24,7 @@ Region 2 Resource Information System data. The covertypes are the following:
 ### Model Selection: neural network with 2-hidden layers
 
 #### Model Architecture:
-
+![](https://github.com/Friedrich94326/Forest_Covertype_Prediction/blob/main/Trained_Models/covertype_3_layered_classifier/Model_Architecture.png)
 
 #### Accuracy & Loss:
 ![](https://github.com/Friedrich94326/Forest_Covertype_Prediction/blob/main/Trained_Models/covertype_3_layered_classifier/acc_loss_plot.png)
